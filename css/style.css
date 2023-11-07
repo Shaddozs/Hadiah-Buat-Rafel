@@ -42,13 +42,13 @@ body{
     animation-delay: .4s;
 }
 .greetings > span:nth-child(6){
-    animation-delay: .5s ;
+    animation-delay: .8s ;
 }
 .greetings > span:nth-child(7){
-    animation-delay: .6s ;
+    animation-delay: .9s ;
 }
 .greetings > span:nth-child(8){
-    animation-delay: .7s;
+    animation-delay: .10s;
 }
 
 .description{
